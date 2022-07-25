@@ -12,6 +12,7 @@ function App() {
         <main>
           <Dictionary />
         </main>
+        <br />
         <footer className="text-center">Coded by Bridget Gallagher</footer>
       </div>
     </div>

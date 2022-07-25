@@ -10,9 +10,14 @@ footer {
 }
 
 a {
-  color: royalblue;
+  color: #6b62ff;
 }
 
 body {
-  background-color: aliceblue;
+  background-color: white;
+  background-image: url("./back_image.png");
+  background-repeat: no-repeat;
+  background-position: top 350px right;
+  background-size: 300px;
+  background-attachment: fixed;
 }
