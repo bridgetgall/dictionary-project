@@ -13,7 +13,16 @@ function App() {
           <Dictionary />
         </main>
         <br />
-        <footer className="text-center">Coded by Bridget Gallagher</footer>
+        <footer className="text-center">
+          Coded by{" "}
+          <a
+            href="https://github.com/bridgetgall/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Bridget Gallagher
+          </a>
+        </footer>
       </div>
     </div>
   );
