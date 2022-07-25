@@ -1,9 +1,18 @@
-.sunset-image {
+.logo-image {
   display: block;
   margin: 0 auto;
-  max-width: 400px;
+  max-width: 150px;
+  margin-top: 15px;
 }
 footer {
   font-size: 15px;
   margin: 0 auto;
+}
+
+a {
+  color: royalblue;
+}
+
+body {
+  background-color: aliceblue;
 }

@@ -1,5 +1,5 @@
 import "./App.css";
-import sunset from "./sunset.jpg";
+import logo from "./logo.png";
 import Dictionary from "./Dictionary";
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={sunset} className="sunset-image img-fluid" alt="sunset" />
+          <img src={logo} className="logo-image img-fluid" alt="logo" />
         </header>
         <main>
           <Dictionary />
